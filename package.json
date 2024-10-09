@@ -2,7 +2,7 @@
   "name": "kumkum-training-center",
   "version": "0.1.0",
   "private": true,
-  "author": "Swayam Kumar Karn",
+  "author": "Prashant Kumar",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
